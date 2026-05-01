@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 🙋‍♀️
 
-<!--
-**shrutik-101/shrutik-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shruti, an aspiring data analyst based in India.
 
-Here are some ideas to get you started:
+I like thinking about business problems and figuring out how data can actually solve them.
+most of the time, you’ll find me exploring datasets, building dashboards, and trying to present insights in a way that just clicks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy mixing logic with creativity, whether it’s analyzing trends or designing clean, meaningful visuals.
+
+Right now, I’m working towards becoming a data analyst and getting better at using data to drive real decisions 📊
+
+Tech I usually work with: python, sql, excel, power bi, tableau (and a bit of web stuff too)
+
+still learning, still building, and honestly just enjoying the process ✨
